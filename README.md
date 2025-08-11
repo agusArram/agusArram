@@ -4,7 +4,7 @@
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
@@ -32,20 +32,15 @@
   Check out my social media
 </h5>
 
-<a href="https://www.linkedin.com/in/agustin-baied-19431b267/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://www.instagram.com/baied.agustin/">
+
+<a href="https://www.instagram.com/agus_arram/?next=%2F">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 
 <h3>Contact me</h3>
 
 <p>
-  <a href="https://t.me/aguss_101">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:agustinbaied1@gmail.com?subject=Feedback%20From%20Github&body=Hello,">
+  <a href="mailto:arrambide.agustin@gmail.com?subject=Feedback%20From%20Github&body=Hello,">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -54,8 +49,26 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=aguss101&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/aguss101)  
-[![](https://github-readme-streak-stats.herokuapp.com/?user=aguss101&theme=material-palenight)](https://github.com/aguss101)  
-<a href="https://github.com/aguss101">
-  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=aguss101&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-</a>
+
+<!-- Stats generales -->
+[![](https://github-readme-stats.vercel.app/api?username=agusArram&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=1)](https://github.com/agusArram)
+
+<!-- Racha -->
+[![](https://github-readme-streak-stats.herokuapp.com/?user=agusArram&theme=material-palenight)](https://github.com/agusArram)
+
+<!--  
+
+<!-- Repos fijados 
+[![AdminNegocio](https://github-readme-stats.vercel.app/api/pin/?username=agusArram&repo=AdminNegocio&theme=tokyonight&cache_seconds=1800&v=1)](https://github.com/agusArram/AdminNegocio)
+[![adminNegocioWeb](https://github-readme-stats.vercel.app/api/pin/?username=agusArram&repo=adminNegocioWeb&theme=tokyonight&cache_seconds=1800&v=1)](https://github.com/agusArram/adminNegocioWeb)
+
+
+
+  gráfico de actividad  
+[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=agusArram&theme=github-compact&radius=8&area=true&cache_seconds=1800&v=2)](https://github.com/agusArram)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agusArram&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&v=2)](https://github.com/agusArram)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=agusArram&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+-->
