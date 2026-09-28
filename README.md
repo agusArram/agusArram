@@ -1,58 +1,64 @@
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<div align="center">
+  <h1>Agustín Arrambide</h1>
+  <h3>Software Engineer | System Architecture & DevOps</h3>
+  <br>
+  <p>Diseño de arquitecturas escalables, administración de infraestructura en servidores propios e integración de IA local.</p>
+</div>
+
 <br>
 
-<h4> Lenguajes </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</span>
+### Tecnologías y Herramientas
 
-<h4> Frameworks & Tecnologías </h4>
-<span> 
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaFX-03A9F4?style=for-the-badge&logo=openjfx&logoColor=white">
-</span>
-
-<h4> Bases de Datos </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-</span>
-
-<h4> Herramientas y Plataformas </h4>
-<span>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-</span>
-
-<h5> 
-  Check out my social media
-</h5>
-
-
-<a href="https://www.instagram.com/agus_arram/?next=%2F">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-
-<h3>Contact me</h3>
-
-<p>
-  <a href="mailto:arrambide.agustin@gmail.com?subject=Feedback%20From%20Github&body=Hello,">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,angular,spring,fastapi,postgres,mysql,sqlite&perline=10" title="Languages & Frameworks" />
   </a>
-</p>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,vercel,grafana,maven,git,github&perline=10" title="DevOps & Tools" />
+  </a>
+</div>
 
-----
+<br>
 
-<h2>Github stats:</h2> 
+### IA & Entorno Local
 
+<div align="center">
+  <img src="https://img.shields.io/badge/-Antigravity-050505?style=flat-square&logo=openai&logoColor=6EE7B7&borderColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/-LM_Studio-050505?style=flat-square&logo=ollama&logoColor=6EE7B7&borderColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/-Qwen_VL-050505?style=flat-square&logo=alibabacloud&logoColor=6EE7B7&borderColor=1a1a1a" />
+</div>
 
-[![](https://github-readme-stats.vercel.app/api?username=agusArram&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=1)](https://github.com/agusArram)
+<br>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=agusArram&theme=material-palenight)](https://github.com/agusArram)
+### Estadísticas
 
+<div align="center">
+
+  <a href="https://github.com/agusArram">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=agusArram&theme=tokyonight&hide_border=true&background=050505&ring=6EE7B7&fire=6EE7B7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6EE7B7&sideLabels=6EE7B7&dates=ffffff" alt="GitHub Streak" width="48%" />
+  </a>
+</div>
+
+<br>
+
+### Actividad Reciente
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/agusArram/agusArram/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/agusArram/agusArram/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/agusArram/agusArram/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="mailto:arrambide.agustin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=6EE7B7&borderColor=1a1a1a" />
+  </a>
+  <a href="https://www.instagram.com/agus_arram/?next=%2F">
+    <img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=6EE7B7&borderColor=1a1a1a" />
+  </a>
+</div>
